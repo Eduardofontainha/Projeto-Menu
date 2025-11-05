@@ -1,4 +1,4 @@
-<h1 align="center">🍔 Projeto Menu</h1>
+<h1 align="center">Projeto Menu</h1>
 
 <p align="center">
   <a href="https://eduardofontainha.github.io/Projeto-Menu/" target="_blank">
